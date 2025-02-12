@@ -6,3 +6,5 @@ xgboost
 kagglehub
 matplotlib
 fastapi
+uvicorn
+kaleido
